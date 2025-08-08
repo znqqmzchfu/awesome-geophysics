@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends."
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
+# match the style used in the rest of the module
